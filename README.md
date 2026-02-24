@@ -5,7 +5,7 @@ Este projeto foi criado para facilitar gravações rápidas e pode ser expandido
 
 ## 📦 Download do aplicativo
 Se você não quiser compilar o código, pode baixar o executável pronto aqui:  
-[⬇️ Baixar Alface Studio](https://drive.google.com/file/d/1VsL-iCI5q2tPzkROpfbJLt325aixwJNz/view?usp=drive_link)
+[⬇️ Baixar Repol Record](https://drive.google.com/file/d/1VsL-iCI5q2tPzkROpfbJLt325aixwJNz/view?usp=drive_link)
 
 ## 🚀 Como rodar pelo código
 
@@ -43,3 +43,4 @@ Este projeto é fornecido como está. Sinta-se livre para usar, modificar e dist
 ## 📧 Contato
 
 Para dúvidas ou sugestões, entre em contato através do repositório GitHub.
+
