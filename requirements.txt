@@ -1,0 +1,8 @@
+av
+PySide6
+opencv-python
+numpy
+mss
+soundfile
+PyQt5
+python-vlc
