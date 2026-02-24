@@ -1,4 +1,4 @@
-# Alface Studio 🎥
+# Repol Record 🎥
 
 Um gravador de tela simples feito em **Python**, com suporte a áudio e vídeo.  
 Este projeto foi criado para facilitar gravações rápidas e pode ser expandido para edição básica.
@@ -41,4 +41,5 @@ python Software_gravacao.py
 Este projeto é fornecido como está. Sinta-se livre para usar, modificar e distribuir.
 
 ## 📧 Contato
+
 Para dúvidas ou sugestões, entre em contato através do repositório GitHub.
